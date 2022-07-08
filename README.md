@@ -5,6 +5,7 @@ i3mp is i3 mode which allows you to control your music player. It uses [mpv-mp](
 ## Installation
 To install i3mp just include the `i3mp.conf` file into your main i3 config file and reload config.
 For example:
+
 `include /path/of/mode/i3mp.conf`
 
 ## Usage
